@@ -1,5 +1,3 @@
-fatal: The remote end hung up unexpectedly
-[mkolek@sigma Laboratoria]$ cat drzewko.sh
 #!/bin/sh
 alias m=mkdir
 alias c=cd
